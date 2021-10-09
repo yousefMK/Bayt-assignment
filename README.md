@@ -7,5 +7,5 @@ the first assignment is to prepare the design for a website that works on both D
 The second assignment has two functions (one is solved using the every() method and the other using Recursion).
 [https://github.com/yousefMK/Bayt-assignment/blob/main/Bayt/assignments.js](https://github.com/yousefMK/Bayt-assignment/blob/main/Bayt/assignments.js)
 
-the github repository link that contains the assignments can be found:
-[https://github.com/yousefMK/Bayt-assignment](https://github.com/yousefMK/Bayt-assignment)
+The repository directory that contains the assignments can be found:
+[https://github.com/yousefMK/Bayt-assignment/tree/main/Bayt](https://github.com/yousefMK/Bayt-assignment/tree/main/Bayt)
