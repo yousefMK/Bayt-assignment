@@ -1,5 +1,5 @@
 # Bayt-assignment
-Two-parts assignment for the Bayt Front end opening.
+Two-parts assignment for the Bayt Front-end position.
 
 the first assignment is to prepare the design for a website that works on both Desktop and a Mobile:
 [https://yousefmk.github.io/Bayt-assignment/Bayt/index.html](https://yousefmk.github.io/Bayt-assignment/Bayt/index.html)
